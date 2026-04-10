@@ -15,7 +15,7 @@ const skills = [
 export default function SkillsSection() {
   return (
     <section id="skills" className="section-padding relative">
-      <div className="absolute top-0 right-0 w-80 h-80 rounded-full bg-coral/5 blur-3xl" />
+      <div className="absolute top-0 right-0 w-80 h-80 rounded-full bg-coral/8 blur-3xl" />
 
       <div className="max-w-6xl mx-auto relative z-10">
         <motion.div

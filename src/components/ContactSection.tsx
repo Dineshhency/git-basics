@@ -4,8 +4,8 @@ import contactClipart from "@/assets/contact-clipart.png";
 export default function ContactSection() {
   return (
     <section id="contact" className="section-padding relative">
-      <div className="absolute top-10 right-10 w-72 h-72 rounded-full bg-coral/5 blur-3xl" />
-      <div className="absolute bottom-10 left-10 w-60 h-60 rounded-full bg-accent/5 blur-3xl" />
+      <div className="absolute top-10 right-10 w-72 h-72 rounded-full bg-coral/8 blur-3xl" />
+      <div className="absolute bottom-10 left-10 w-60 h-60 rounded-full bg-accent/8 blur-3xl" />
 
       <div className="max-w-6xl mx-auto grid md:grid-cols-2 gap-16 items-center relative z-10">
         <motion.div
