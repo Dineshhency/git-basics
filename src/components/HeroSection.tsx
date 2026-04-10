@@ -5,8 +5,8 @@ export default function HeroSection() {
   return (
     <section className="min-h-screen flex items-center section-padding pt-28 bg-mesh relative overflow-hidden">
       {/* Floating glass orbs */}
-      <div className="absolute top-20 left-10 w-72 h-72 rounded-full bg-coral/5 blur-3xl" />
-      <div className="absolute bottom-20 right-10 w-96 h-96 rounded-full bg-accent/5 blur-3xl" />
+      <div className="absolute top-20 left-10 w-72 h-72 rounded-full bg-coral/10 blur-3xl" />
+      <div className="absolute bottom-20 right-10 w-96 h-96 rounded-full bg-accent/8 blur-3xl" />
 
       <div className="max-w-6xl mx-auto w-full grid md:grid-cols-2 gap-12 items-center relative z-10">
         <motion.div

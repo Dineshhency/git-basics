@@ -37,7 +37,7 @@ const services = [
 export default function ServicesSection() {
   return (
     <section id="services" className="section-padding bg-mesh relative">
-      <div className="absolute bottom-0 left-0 w-96 h-96 rounded-full bg-accent/5 blur-3xl" />
+      <div className="absolute bottom-0 left-0 w-96 h-96 rounded-full bg-accent/8 blur-3xl" />
 
       <div className="max-w-6xl mx-auto relative z-10">
         <motion.div
