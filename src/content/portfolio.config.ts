@@ -20,8 +20,8 @@ const withBase = (path: string) => {
 
 // Quick-edit section: update these values first for most profile/theme changes.
 const profile = {
-  name: "Sagun",
-  role: "Full Stack Developer",
+  name: "Dinesh Raj Bhandari",
+  role: "Civil Sub-Engineer",
   location: "Nepal",
   email: "hello@sagun.dev",
   linkedin: "linkedin.com/in/sagun",
@@ -118,11 +118,10 @@ export const portfolioConfig: PortfolioConfig = {
       title: "About",
       titleHighlight: "Me",
       paragraphs: [
-        "I'm a developer focused on creating reliable, user-friendly applications with clean architecture and strong performance.",
-        "I enjoy turning ideas into products, from UI development to backend APIs, while keeping code maintainable and scalable.",
+        "Motivated and detail-oriented professional with strong problem-solving skills and the ability to adapt quickly to new challenges. Committed to delivering quality results and contributing positively to organizational growth.",
       ],
       image: {
-        src: withBase("/images/sulove-profile.jpeg"),
+        src: withBase("/images/dinesh-profile.jpg"),
         alt: `${profile.name} - ${profile.role}`,
         width: 500,
         height: 600,
